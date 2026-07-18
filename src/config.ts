@@ -1,13 +1,13 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
-  accentColor: "#1d4ed8",
+  name: "Nanrhana S",
+  title: "Student",
+  description: "Portfolio website of Nanrhana S",
+  accentColor: "#537be9",
   social: {
     email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    linkedin: "None",
+    twitter: "None",
+    github: "https://github.com/nanducs507715",
   },
   aboutMe:
     "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
@@ -37,8 +37,8 @@ export const siteConfig = {
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
+      company: "ThinkNuero Software Engineering Practicum",
+      title: "Internship Experience",
       dateRange: "Jan 2022 - Present",
       bullets: [
         "Led development of microservices architecture serving 1M+ users",
@@ -79,13 +79,11 @@ export const siteConfig = {
       ],
     },
     {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
+      school: "The PSBB Millennium School, Coimbatore",
+      degree: "High School Diploma",
+      dateRange: "Ongoing",
       achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
+        "Will Graduate with Honors in Science and Mathematics",
       ],
     },
   ],
