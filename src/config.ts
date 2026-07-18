@@ -14,18 +14,18 @@ export const siteConfig = {
   skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
   projects: [
     {
-      name: "None",
+      name: "Model United Nations(MUNs)",
       description:
-        "None",
+        "I have been a part of the MUNs for 4 years and have been a delegate in various conferences representing my school. I have also been a part of the organizing committee for the MUNs and have been a part of the team that has organized various conferences.",
       link: "None",
-      skills: [None],
+      skills: ["Public Speaking", "Research", "Writing"],
     },
     {
-      name: "None",
+      name: "Dance - Bharatanatyam",
       description:
-        "None",
+        "I have been learning Bharatanatyam for 10+ years and have participated in various cultural events and competitions.",
       link: "None",
-      skills: [None],
+      skills: ["Dance", "Performance"],
     },
     {
       name: "None",
