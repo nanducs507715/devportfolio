@@ -4,7 +4,7 @@ export const siteConfig = {
   description: "Portfolio website of Nanrhana S",
   accentColor: "#537be9",
   social: {
-    email: "your-email@example.com",
+    email: "nanthanasankar@gmail.com",
     linkedin: "None",
     twitter: "None",
     github: "https://github.com/nanducs507715",
