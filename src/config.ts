@@ -32,7 +32,7 @@ export const siteConfig = {
       description:
         "None",
       link: "None",
-      skills: [None],
+      skills: ["None"],
     },
   ],
   experience: [
